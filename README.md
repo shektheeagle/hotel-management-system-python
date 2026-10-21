@@ -27,6 +27,7 @@ The objective of this project is to develop a desktop application using Python a
 
 
 
+
 ## How to Run
 1. Install Python.
 2. Install the required dependencies.
