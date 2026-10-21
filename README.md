@@ -24,7 +24,7 @@ The objective of this project is to develop a desktop application using Python a
 - `bg.jpg` — Background image, if used
 - Other image and database files required by the application
 
-- ![Hotel Management System](./hotel-management-system.png)
+- ![Hotel Management System](./hotel-management-system.png)(./hotel management  system.png)
 
 
 
